@@ -1,5 +1,5 @@
 
-# 🌐 HTTP Status Codes – Daily Learning (17 June 2025)
+# 🌐 HTTP Status Codes
 
 ## 📘 What Are HTTP Status Codes?
 HTTP status codes are **3-digit responses** from the server that indicate the outcome of a client’s request to the server.
